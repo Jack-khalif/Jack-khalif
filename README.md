@@ -1,8 +1,28 @@
 
 
-- # About Me:
- Problem solver |  Developer-Sofware |  Biomedical Engineer<br> Winner in all spheres of my life. br><br> Currently working on projects that make me happy<br><br> Interested in healthcare technology.
-Reach me via mugwewaithaka2@gmail.com
+#  Hi, I'm Mugwe Waithaka  
+
+**Problem Solver | Software Developer | Biomedical Engineer**  
+ Winner in all spheres of my life  
+
+---
+
+### About Me  
+- Currently working on projects that make me happy   
+- Passionate about **healthcare technology**   
+- Strong background in **programming, problem-solving, and biomedical engineering**  
+
+---
+
+### Skills & Interests  
+- **Programming:** C, C++, Python, MATLAB, JavaScript  
+- **Areas of Interest:** Healthcare technology, IoT, Data Science, AI in Medicine  
+- **Strengths:** Problem solving, leadership, innovation  
+
+---
+
+---
+
 
 
 ##  Socials:
