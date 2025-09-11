@@ -1,7 +1,7 @@
 
 
-- # 💫 About Me:
-🔬 Biomedical Engineering | 💻 Data Science | ⚡ IoT & AI Enthusiast<br>🏆 Winner of CUK Innovation Week with Vena Visio (NIR-based vein visualization glasses)<br><br>📊 Currently working on data science projects at WQU<br><br>🔍 Interested in network analysis, predictive modeling, and healthcare technology.
+- #  About Me:
+ Biomedical Engineering |  Data Science |  IoT & AI Enthusiast<br> Winner of CUK Innovation Week with Vena Visio (NIR-based vein visualization glasses)<br><br> Currently working on data science projects at WQU<br><br>🔍 Interested in network analysis, predictive modeling, and healthcare technology.
 Reach me via mugwewaithaka2@gmail.com
 
 
