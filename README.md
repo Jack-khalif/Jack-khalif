@@ -2,7 +2,7 @@
 #  Hi, I'm Mugwe Waithaka  
 
 **Problem Solver | Software Developer | Biomedical Engineer**  
- Winner in all spheres of my life  
+ Winning all through 
 
 ---
 ### About Me  
