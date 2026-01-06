@@ -1,5 +1,4 @@
 
-
 #  Hi, I'm Mugwe Waithaka  
 
 **Problem Solver | Software Developer | Biomedical Engineer**  
