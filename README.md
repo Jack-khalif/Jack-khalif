@@ -6,7 +6,6 @@
  Winner in all spheres of my life  
 
 ---
-
 ### About Me  
 - Currently working on projects that make me happy   
 - Passionate about **healthcare technology**   
