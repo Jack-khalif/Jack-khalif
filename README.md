@@ -8,7 +8,7 @@
 ### About Me  
 - Currently working on projects that make me happy   
 - Passionate about **healthcare technology**   
-- Strong background in **programming, problem-solving, and biomedical engineering**  
+- Strong background in **programming, Quantum Technology-scientific computing, and biomedical engineering**  
 
 ---
 
