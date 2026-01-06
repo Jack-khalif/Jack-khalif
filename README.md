@@ -35,13 +35,10 @@
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jack-khalif&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Jack-khalif&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 Jack-khalif/Jack-khalif is a special  repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-> “Engineering is not just about machines and code, it’s about **creating solutions that impact lives**.”
+> “Engineering is not just about machines and code, it’s about **creating solutions that impact lives which i do so**.”
