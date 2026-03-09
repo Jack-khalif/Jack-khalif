@@ -1,7 +1,7 @@
 
-#  Hi, I'm Mugwe Waithaka  
+#  Hi, I'm Jack  
 
-**Problem Solver | Software Developer | Biomedical Engineer**  
+**Problem Solver | Software Dev | Engineer**  
  Winning all through 
 
 ---
