@@ -14,7 +14,7 @@
 
 ### Skills & Interests  
 - **Programming:** C, C++, Python, MATLAB, JavaScript  
-- **Areas of Interest:** Healthcare technology, IoT, Data Science, AI in Medicine, Quantum Technology ,devops 
+- **Areas of Interest:** Healthcare technology, IoT, Data Science, AI in Medicine, Quantum Technology ,devops ,cloud engineering
 - **Strengths:** Problem solving, leadership, innovation  
 
 ---
